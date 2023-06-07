@@ -1,6 +1,6 @@
 {
-    "main_folder": "/home/mlops/Documents/Sohail/datadrift/data/20230428",
-    "bad_health_folder": "/home/mlops/Documents/Sohail/datadrift/data/bad_health_videos",
+    "main_folder": "The path to the folder containing the videos to be analyzed",
+    "bad_health_folder": "The path to the folder where videos with bad health will be moved",
     "min_video_length": 40,
     "max_video_length": 120,
     "min_video_size": 10
