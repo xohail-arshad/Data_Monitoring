@@ -26,4 +26,4 @@ The script reads the input parameters from the `parameters.json` file. The follo
 
 The script generates console output to display the analysis results. Additionally, videos with bad health are moved to the `bad_health_folder` for further investigation.
 
-# Please note that the script only supports videos in the `.mp4` format.
+### Please note that the script only supports videos in the `.mp4` format.
