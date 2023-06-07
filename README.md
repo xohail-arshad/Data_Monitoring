@@ -28,3 +28,5 @@ The script generates console output to display the analysis results. Additionall
 
 ### Please note that the script only supports videos in the `.mp4` format.
 
+
+
