@@ -13,7 +13,6 @@ The script reads the input parameters from the `parameters.json` file. The follo
 - `min_video_size`: The minimum allowed size of a video in megabytes.
 
 ## Working Process
-
 1. The script reads the input parameters from the `parameters.json` file.
 2. It creates the `bad_health_folder` if it doesn't already exist.
 3. The script scans the `main_folder` for video files with the `.mp4` extension.
